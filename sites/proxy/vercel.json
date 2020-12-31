@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/echo(.*)",
-      "destination": "https://echo-test-sibi-mono-frontends.vercel.app$1"
+      "destination": "https://echo-test-sibi-mono-frontends.vercel.app/echo$1"
     },
     {
       "source": "/url(.*)",
