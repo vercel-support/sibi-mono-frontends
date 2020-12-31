@@ -6,7 +6,7 @@
     },
     {
       "source": "/url(.*)",
-      "destination": "https://url-params-sibi-mono-frontends.vercel.app$1"
+      "destination": "https://url-params-sibi-mono-frontends.vercel.app/url$1"
     }
   ]
 }
